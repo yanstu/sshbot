@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: love.forte.simple-robot-component:component-mirai:1.9.1-1.16">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../RepMaven/love/forte/simple-robot-component/component-mirai/1.9.1-1.16/component-mirai-1.9.1-1.16.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../RepMaven/love/forte/simple-robot-component/component-mirai/1.9.1-1.16/component-mirai-1.9.1-1.16-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../RepMaven/love/forte/simple-robot-component/component-mirai/1.9.1-1.16/component-mirai-1.9.1-1.16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
